@@ -1,0 +1,19 @@
+{
+  "firstName": "Scott",
+  "lastName": "Jaiswal",
+  "age": 27,
+  "address": [
+    {
+      "streetAddress": "plot-5,kphb",
+      "city": "Hyderebad",
+      "state": "Telangana",
+      "postalcode": "500904"
+    },
+    {
+      "streetAddress": "xyz",
+      "city": "Chennai",
+      "state": "Telangana",
+      "postalcode": "502345"
+    }
+  ]
+}
